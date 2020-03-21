@@ -1,4 +1,4 @@
-awesome-cspm [![Build Status](https://travis-ci.org/kai5263499/awesome-cspm.svg?branch=master)](https://travis-ci.org/kai5263499/awesome-cspm)
+awesome-cspm [![Build Status](https://api.travis-ci.org/kai5263499/awesome-cspm.svg?branch=master)](https://travis-ci.org/kai5263499/awesome-cspm)
 
 ------------------------------------------------------------------------------------------
 
@@ -62,7 +62,8 @@ A collection of cloud security related resources
 ### [Getting started with IMSDv2](https://blog.appsecco.com/getting-started-with-version-2-of-aws-ec2-instance-metadata-service-imdsv2-2ad03a1f3650)
 ### [Netflix: Detecting Credential Compromise in AWS](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
 ### [Netflix: Preventing Credential Compromise in AWS](netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179)
-### [Breaking Attacker Kill Chsins in AWS IAM roles](https://disruptops.com/breaking-attacker-kill-chains-in-aws-iam-roles/)
+### [Breaking Attacker Kill Chsins in AWS IAM roles](http://webcache.googleusercontent.com/search?q=cache:k8TxfDRC4QEJ:https://disruptops.com/breaking-attacker-kill-chains-in-aws-iam-roles/&hl=en&gl=us&strip=1&vwsrc=0)
+* [Origional on a flakey server](https://disruptops.com/breaking-attacker-kill-chains-in-aws-iam-roles/)
 
 ## Defender tools
 
