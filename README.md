@@ -1,4 +1,4 @@
-awesome-cspm
+awesome-cspm [![Build Status](https://travis-ci.org/kai5263499/awesome-cspm.svg?branch=master)](https://travis-ci.org/kai5263499/awesome-cspm)
 
 ------------------------------------------------------------------------------------------
 
