@@ -34,7 +34,7 @@ A collection of cloud security related resources
 ### [Wired Capital One Case Study](https://www.wired.com/story/capital-one-paige-thompson-case-hacking-spree/)
 ### [Krebs What We Can Learn From The Capital One Hack](https://krebsonsecurity.com/2019/08/what-we-can-learn-from-the-capital-one-hack/)
 ### [How online 'cloud buckets' are exposing private photos and other sensitive data](https://outline.com/Ke47MA)
-### [Wyze Case Study of Leaked Customer Data](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/tech-policy/2019/12/surveillance-camera-company-wyze-confirms-leak-of-user-data/)
+### [Wyze Case Study of Leaked Customer Data](https://arstechnica.com/tech-policy/2019/12/surveillance-camera-company-wyze-confirms-leak-of-user-data/)
 ### [Case Study on How an Amazon Engineer Exposed Customer Credentials](https://www.upguard.com/breaches/identity-and-access-misstep-how-an-amazon-engineer-exposed-credentials-and-more)
 ### [VPN Traffic Mirroring in AWS](https://rhinosecuritylabs.com/aws/abusing-vpc-traffic-mirroring-in-aws/)
 ### [Plundering GCP Escelating Privledges in Google Cloud Platform (GCP)](https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/)
@@ -60,7 +60,7 @@ A collection of cloud security related resources
 ## Defenses
 
 ### [Getting started with IMSDv2](https://blog.appsecco.com/getting-started-with-version-2-of-aws-ec2-instance-metadata-service-imdsv2-2ad03a1f3650)
-### [Netflix: Detecting Credential Compromise in AWS](https://medium.com/netflix-techblog/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
+### [Netflix: Detecting Credential Compromise in AWS](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
 ### [Netflix: Preventing Credential Compromise in AWS](netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179)
 ### [Breaking Attacker Kill Chsins in AWS IAM roles](https://disruptops.com/breaking-attacker-kill-chains-in-aws-iam-roles/)
 
