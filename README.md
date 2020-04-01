@@ -41,7 +41,7 @@ A collection of cloud security related resources
 ### [Rhino Security Research Paper on S3 Ransomware Prevention and Defense](https://rhinosecuritylabs.com/aws/s3-ransomware-part-2-prevention-and-defense/)
 ### [Case Study on AWS Cloud RootKit](https://www.cbronline.com/news/aws-servers-hacked-rootkit-in-the-cloud)
 ### [Google Cloud Shell Root Compromise](https://threatpost.com/100k-google-cloud-shell-root-compromise/153665/)
-### [Hunting Azure Admins for Vertical Escelation](https://www.lares.com/hunting-azure-admins-for-vertical-escalation/)
+### [Hunting Azure Admins for Vertical Escelation](https://www.lares.com/blog/hunting-azure-admins-for-vertical-escalation/)
 ### [How Attackers Could Use Azure Apps to Sneak into Microsoft 365](https://www.darkreading.com/cloud/how-attackers-could-use-azure-apps-to-sneak-into-office-365/d/d-id/1337399)
 
 ## Attacker tools
