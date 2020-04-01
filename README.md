@@ -42,6 +42,7 @@ A collection of cloud security related resources
 ### [Case Study on AWS Cloud RootKit](https://www.cbronline.com/news/aws-servers-hacked-rootkit-in-the-cloud)
 ### [Google Cloud Shell Root Compromise](https://threatpost.com/100k-google-cloud-shell-root-compromise/153665/)
 ### [Hunting Azure Admins for Vertical Escelation](https://www.lares.com/hunting-azure-admins-for-vertical-escalation/)
+### [How Attackers Could Use Azure Apps to Sneak into Microsoft 365](https://www.darkreading.com/cloud/how-attackers-could-use-azure-apps-to-sneak-into-office-365/d/d-id/1337399)
 
 ## Attacker tools
 
@@ -64,6 +65,8 @@ A collection of cloud security related resources
 ### [Netflix: Preventing Credential Compromise in AWS](netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179)
 ### [Breaking Attacker Kill Chsins in AWS IAM roles](http://webcache.googleusercontent.com/search?q=cache:k8TxfDRC4QEJ:https://disruptops.com/breaking-attacker-kill-chains-in-aws-iam-roles/&hl=en&gl=us&strip=1&vwsrc=0)
 * [Origional on a flakey server](https://disruptops.com/breaking-attacker-kill-chains-in-aws-iam-roles/)
+### [Azure Lighthouse](https://jussiroine.com/2019/07/azure-lighthouse-managing-customer-azure-tenants-as-a-service-provider/)
+* Service from Microsoft for managing multiple Tenants and Subscriptions through delegated access
 
 ## Defender tools
 
