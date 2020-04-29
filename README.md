@@ -22,6 +22,10 @@ A collection of cloud security related resources
 
 ## Threat Hunting in the Cloud
 
+### [Finding Evil in AWS](https://expel.io/blog/finding-evil-in-aws/)
+* Account of finding and expelling a cloud intruder
+### [Gathering Bearer Tokens from Azure Services](https://blog.netspi.com/gathering-bearer-tokens-azure/)
+* Pen tester repot on how to identify attackers based on bearer token usage patterns
 ### [How to Build Threat Hunting Capability in AWS](https://pages.awscloud.com/rs/112-TZM-766/images/How-to-Build-a-Threat-Hunting-Capability-in-AWS_Whitepaper.pdf)
 ### [Threat Hunting Capability in the AWS Cloud](https://www.secureworldexpo.com/industry-news/threat-hunting-capability-in-the-aws-cloud)
 ### [Cloud Adoption Engineering the Next Generation of Cloud Governance](https://cloudrumblings.io/cloud-adoption-engineering-the-next-generation-of-cloud-governance-21fb1a2eff60)
@@ -46,6 +50,8 @@ A collection of cloud security related resources
 
 ## Attacker tools
 
+## [MicroBurst](https://github.com/Netspi/Microburst)
+* PowerShell toolkit for attacking Azure
 ### [Capital One Cloud Breach Cloud Goat](https://rhinosecuritylabs.com/aws/capital-one-cloud_breach_s3-cloudgoat/)
 * Terraform script to setup your own compromised cloud cyber range
 ### [Cloud Goat](https://github.com/RhinoSecurityLabs/cloudgoat)
