@@ -82,7 +82,7 @@ A collection of cloud security related resources
 ## Vendors
 
 ### [HashiCorp Sentinel](https://www.hashicorp.com/sentinel/)
-* [Compliance as code](https://www.hashicorp.com/resources/introduction-sentinel-compliance-policy-as-code)
+* [Compliance as code](https://www.hashicorp.com/resources/introduction-sentinel-compliance-policy-as-code/)
 ### [Google Beyond Prod](https://cloud.google.com/security/beyondprod/)
 ### [Broadcom CSPM](https://www.broadcom.com/products/cyber-security/endpoint/hybrid-cloud/cloud-workload-protection)
 ### [RedLock/PaloAlto](https://login.paloaltonetworks.com/?resume=/idp/DLKy1/resumeSAML20/idp/SSO.ping&spentity=RedLockSP)
