@@ -35,6 +35,7 @@ A collection of cloud security related resources
 
 ## Attacks
 
+### [AWS IAM exploitation](https://securityriskadvisors.com/blog/aws-iam-exploitation/)
 ### [Wired Capital One Case Study](https://www.wired.com/story/capital-one-paige-thompson-case-hacking-spree/)
 ### [Krebs What We Can Learn From The Capital One Hack](https://krebsonsecurity.com/2019/08/what-we-can-learn-from-the-capital-one-hack/)
 ### [How online 'cloud buckets' are exposing private photos and other sensitive data](https://outline.com/Ke47MA)
@@ -73,6 +74,7 @@ A collection of cloud security related resources
 * [Origional on a flakey server](https://disruptops.com/breaking-attacker-kill-chains-in-aws-iam-roles/)
 ### [Azure Lighthouse](https://jussiroine.com/2019/07/azure-lighthouse-managing-customer-azure-tenants-as-a-service-provider/)
 * Service from Microsoft for managing multiple Tenants and Subscriptions through delegated access
+### [Breach Path Prediction: Getting Ahead of Cloud Breaches](https://www.accurics.com/blog/security/getting-ahead-of-cloud-breaches/)
 
 ## Defender tools
 
