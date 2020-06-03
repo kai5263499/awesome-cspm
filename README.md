@@ -35,6 +35,7 @@ A collection of cloud security related resources
 
 ## Attacks
 
+### [Full Infrastructure Takeover Of VMWare Cloud Director CVE-2020-3956](https://citadelo.com/en/blog/full-infrastructure-takeover-of-vmware-cloud-director-CVE-2020-3956/)
 ### [AWS IAM exploitation](https://securityriskadvisors.com/blog/aws-iam-exploitation/)
 ### [Wired Capital One Case Study](https://www.wired.com/story/capital-one-paige-thompson-case-hacking-spree/)
 ### [Krebs What We Can Learn From The Capital One Hack](https://krebsonsecurity.com/2019/08/what-we-can-learn-from-the-capital-one-hack/)
