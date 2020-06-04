@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-list 'cloudrumblings.io,blog.appsecco.com,netflixtechblog.com,disruptops.com'
+  - awesome_bot README.md --white-list 'cloudrumblings.io,blog.appsecco.com,netflixtechblog.com,disruptops.com,krebsonsecurity.com'
