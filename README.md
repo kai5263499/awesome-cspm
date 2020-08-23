@@ -34,6 +34,7 @@ A collection of cloud security related resources
 
 
 ## Attacks
+### [AWS Cryptojacking Worm Spreads Through the Cloud](https://threatpost.com/aws-cryptojacking-worm-cloud/158427/)
 ### [AWS IAM Assume Role Vulnerabilities Found in Many Top Vendors](https://www.praetorian.com/blog/aws-iam-assume-role-vulnerabilities)
 ### [Full Infrastructure Takeover Of VMWare Cloud Director CVE-2020-3956](https://citadelo.com/en/blog/full-infrastructure-takeover-of-vmware-cloud-director-CVE-2020-3956/)
 ### [AWS IAM exploitation](https://securityriskadvisors.com/blog/aws-iam-exploitation/)
